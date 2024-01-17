@@ -1,20 +1,21 @@
 # Bootcamp-Back-End-Python-e-Django 
-Integrantes 
+<h2>Integrantes</h2>
 
-1-Amanda Paul Dull
-2-Gleyce Alves Pereira Da Silva
-3-Juliana Freire Pequeno de Santiago Carvalho
-4-Heloísa Britto De Castro Santos
-5-Fernanda Pestana
-6-Carolina Mendes Campos
-7-Lais Victoria
-8-Jataiza Barboza	
-9-Maiara Priscila Lima Dos Santos
-10-Nicolle Sturzbecher
-11-Mariama Pereira Nascimento
+1-Amanda Paul Dull<br>
+2-Gleyce Alves Pereira Da Silva<br>
+3-Juliana Freire Pequeno de Santiago Carvalho<br>
+4-Heloísa Britto De Castro Santos<br>
+5-Fernanda Pestana<br>
+6-Carolina Mendes Campos<br>
+7-Lais Victoria<br>
+8-Jataiza Barboza	<br>
+9-Maiara Priscila Lima Dos Santos<br>
+10-Nicolle Sturzbecher<br>
+11-Mariama Pereira Nascimento<br>
 
-<h1> Conceitos básico</h1> 
-- Tomada de Decisão e Estruturas de Repetição
-- Lista,tuplas e dicionários
-- Funções
-- Atividades
+<h1>Contéudo curso</h1> 
+- Conceitos básico <br>
+- Tomada de Decisão e Estruturas de Repetição<br>
+- Lista,tuplas e dicionários<br>
+- Funções<br>
+- Atividades <br>
