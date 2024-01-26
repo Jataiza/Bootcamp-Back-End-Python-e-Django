@@ -16,3 +16,4 @@ def countVowels(text):
 text = input('Digite aqui sua frase favorita: ').upper()
 totalVowels = countVowels(text)
 print('o número de vogais nessa frase é: ', totalVowels)
+
