@@ -1,9 +1,14 @@
-#Faça um programa que peça dois números e imprima o maior deles
+'''Faça um Programa que pergunte em que turno você estuda. Peça para digitar 
+M-matutino ou V-Vespertino ou N- Noturno. 
+Imprima a mensagem "Bom Dia!", "Boa Tarde!" ou "Boa Noite!" ou "Valor Inválido!", conforme o caso.'''
 
-numero1 =int(input("Digite um numero:"))
-numero2=int(input("Digite um numero:"))
+turno = str(input("Escreva o turno que você estuda:"))
 
-if numero1 >numero2:
-    print("O numero 1º é maior")
+if turno == "M":
+    print('Bom dia')
+elif turno == "V":
+    print('Boa Tarde')
+elif turno == "N":
+    print('Boa noite') 
 else:
-    print("O numero 2º é maior")
+    print("Opção inválida")
