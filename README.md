@@ -21,6 +21,7 @@
 5-Jataiza Barboza<br>
 6-Nicolle Sturzbecher<br>
 7-Mariama Pereira Nascimento<br>
+8-Amanda Paul Dull<br>
 
 <h3>Participação Especial</h3>
 Priscila Santos<br>
