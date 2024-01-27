@@ -24,9 +24,6 @@
 8-Amanda Paul Dull<br>
 9-Maiara Priscila Lima Dos Santos<br>
 
-<h3>Participação Especial</h3>
-Priscila Santos<br>
-
 
 
 <h1>Contéudo curso</h1> 
