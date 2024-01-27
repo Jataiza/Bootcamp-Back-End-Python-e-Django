@@ -13,17 +13,6 @@
 10-Nicolle Sturzbecher<br>
 11-Mariama Pereira Nascimento<br>
 
-<h2>Contribuintes</h2>
-1-Juliana Freire Pequeno de Santiago Carvalho<br>
-2-Fernanda Pestana<br>
-3-Carolina Mendes Campos<br>
-4-Lais Victoria<br>
-5-Jataiza Barboza<br>
-6-Nicolle Sturzbecher<br>
-7-Mariama Pereira Nascimento<br>
-8-Amanda Paul Dull<br>
-9-Maiara Priscila Lima Dos Santos<br>
-
 
 
 <h1>Contéudo curso</h1> 
