@@ -2,29 +2,20 @@
 Adicione produtos (chaves) e quantidades (valores) ao carrinho.
 Calcule o total do carrinho de compra.'''
 
-carrinho_de_compras = {
-    "Maçã": 3,
-    "Banana": 2,
-    "Laranja": 1,
-    "Abacaxi": 1
-}
+shopping = {'cropped': 50, 'calça': 120.99, 'moletom': 100.89,
+             'maiô': 89.9, 'vela aromatica': 30.5, 'blayblade': 79.9}
 
-# Definindo os preços dos produtos
-precos = {
-    "Maçã": 2.50,
-    "Banana": 1.50,
-    "Laranja": 3.00,
-    "Abacaxi": 4.00
-}
+carrinho = []
 
-def calcular_total(carrinho, precos):
-    total = 0
-    for produto, quantidade in carrinho.items():
-        if produto in precos:
-            total += quantidade * precos[produto]
-        else:
-            print(f"O preço para {produto} não está definido.")
-    return total
 
-total_do_carrinho = calcular_total(carrinho_de_compras, precos)
-print(f"O total do carrinho de compras é: R$ {total_do_carrinho:.2f}")
+while True:
+    buy = input('Nós temos: cropped, calça, moletom, maiô, vela aromatica e blayblade \nO que da lista você deseja comprar? Ou digite x para sair: ')
+    if buy == "x":
+        break
+    elif buy in shopping :
+        carrinho.append(shopping[buy])
+        total = sum(carrinho)
+        print(f'Esse é o total do seu carrinho {total} BRL')
+        
+    else:
+        print('Não temos esse produto, confira a lista e digite novamente')
