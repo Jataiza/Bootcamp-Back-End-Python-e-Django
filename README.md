@@ -22,6 +22,7 @@
 6-Nicolle Sturzbecher<br>
 7-Mariama Pereira Nascimento<br>
 8-Amanda Paul Dull<br>
+9-Maiara Priscila Lima Dos Santos<br>
 
 <h3>Participação Especial</h3>
 Priscila Santos<br>
