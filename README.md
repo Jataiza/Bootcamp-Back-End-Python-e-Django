@@ -13,6 +13,20 @@
 10-Nicolle Sturzbecher<br>
 11-Mariama Pereira Nascimento<br>
 
+<h2>Contribuintes</h2>
+1-Juliana Freire Pequeno de Santiago Carvalho<br>
+2-Fernanda Pestana<br>
+3-Carolina Mendes Campos<br>
+4-Lais Victoria<br>
+5-Jataiza Barboza<br>
+6-Nicolle Sturzbecher<br>
+7-Mariama Pereira Nascimento<br>
+
+<h3>Participação Especial</h3>
+Priscila Santos<br>
+
+
+
 <h1>Contéudo curso</h1> 
 - Conceitos básico <br>
 - Tomada de Decisão e Estruturas de Repetição<br>
