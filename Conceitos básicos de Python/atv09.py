@@ -1,6 +1,5 @@
 
-horas_exercicio = int(
-    input('Digite o número de horas que você se exercita na semana: '))
+horas_exercicio = int(input('Digite o número de horas que você se exercita na semana: '))
 
 
 minutos_de_exercicio_por_semana = horas_exercicio*60
