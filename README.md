@@ -20,7 +20,9 @@
 - Funções<br>
 - Orientação a Objetos com Python<br>
 - Banco de Dados<br>
-- APIs<br>
+- APIs <br>
+- Inteligência Artificial e Python
+- Django Web
 <br>
 
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
