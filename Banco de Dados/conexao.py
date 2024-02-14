@@ -51,15 +51,7 @@ cursor.execute('INSERT INTO alunos(id,Nome,idade,curso)VALUES(10,"Lara",19,"Enge
 
 #cursor.execute('DELETE FROM alunos WHERE id=1')
 
-
-
-
-
-
-
-
-
-     
+ 
 conexao.commit()
 conexao.close
 
